@@ -1,0 +1,134 @@
+.top{
+    text-align: right;
+    background-color: gray;
+    height: 38px;
+    font-size: xx-large;
+    position: static;
+    flex-flow: wrap;
+    width: 1500px;
+  }
+  .button1{
+    margin: auto;
+    border: none ;
+    box-shadow: 4px;
+    padding: 15px;
+    border-radius: 10px 10px 10px 10px;
+    right: 430px;
+    position: absolute;
+    width: 60px;
+    height: 5px;
+    text-align: center;
+    background-color: black;
+    cursor: pointer;
+    transition: background-color 1s;
+    }
+    .button1:hover{
+        margin: auto;
+        border: none ;
+        box-shadow: 4px;
+        padding: 15px;
+        border-radius: 10px 10px 10px 10px;
+        right: 430px;
+        position: absolute;
+        width: 60px;
+        height: 5px;
+        text-align: center;
+        background-color: darkcyan;
+        }
+    .button2{
+        
+        margin: auto;
+        border: none;
+        box-shadow: 4px;
+        padding: 15px;
+        border-radius: 10px 10px 10px 10px;
+        right: 320px;
+        position: absolute;
+        width: 60px;
+        height: 5px;
+        text-align: center;
+        background-color: black;
+        cursor: pointer;
+        transition: background-color 1s;
+        }
+        .button2:hover{
+        
+            margin: auto;
+            border: none;
+            box-shadow: 4px;
+            padding: 15px;
+            border-radius: 10px 10px 10px 10px;
+            right: 320px;
+            position: absolute;
+            width: 60px;
+            height: 5px;
+            text-align: center;
+            background-color: darkcyan;
+            }
+        .button3{
+            margin: auto;
+            border: none;
+            box-shadow: 4px;
+            padding: 15px;
+            border-radius: 10px 10px 10px 10px;
+            right: 190px;
+            position: absolute;
+            width: 80px;
+            height: 5px;
+            text-align: center;
+            background-color: black;
+            cursor: pointer;
+            transition: background-color 1s;
+        }
+        .button3:hover{
+            margin: auto;
+            border: none;
+            box-shadow: 4px;
+            padding: 15px;
+            border-radius: 10px 10px 10px 10px;
+            right: 190px;
+            position: absolute;
+            width: 80px;
+            height: 5px;
+            text-align: center;
+            background-color: darkcyan;
+            
+        }
+        .button4{
+            margin: auto;
+            border: none;
+            box-shadow: 4px;
+            padding: 15px;
+            border-radius: 10px 10px 10px 10px;
+            right: 40px;
+            position: absolute;
+            width: 100px;
+            height: 5px;
+            text-align: center;
+            background-color: black;
+            transition: background-color 1s;
+            cursor: pointer;
+        }
+        .button4:hover{
+            margin: auto;
+            border: none;
+            box-shadow: 4px;
+            padding: 15px;
+            border-radius: 10px 10px 10px 10px;
+            right: 40px;
+            position: absolute;
+            width: 100px;
+            height: 5px;
+            text-align: center;
+            background-color: darkcyan;
+        }
+.img2{
+    background-image: url('resimg.jpg');
+    
+    height: 900px;
+    width: 1400px;    
+    text-align: right;
+    
+
+}
+
